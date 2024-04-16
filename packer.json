@@ -87,7 +87,7 @@
                 "sudo apt install nginx -y",
                 "sudo apt install python3-apt -y",
                 "sudo apt install -y git stress htop",
-                "sudo git clone -b awsb47-packer https://github.com/mavrick202/ansibletemplatetesting.git /myrepo"
+                "sudo git clone -b main https://github.com/saimohansai/Ansible_script.git /myrepo"
             ],
             "type": "shell"
         }
